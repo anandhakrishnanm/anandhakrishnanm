@@ -3,8 +3,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on some secret stuff
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web development
