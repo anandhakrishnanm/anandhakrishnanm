@@ -1,17 +1,16 @@
 ### Hi there 👋
 # I am Anandhakrishnan M
 
-<!--
-**anandhakrishnanm/anandhakrishnanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some secret stuff
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Web development
+- 🤔 I’m looking for help with React
+- 💬 Ask me about Web development
+- 📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="anandhakrishnanmohank@gmail.com" target="_blank">anandhakrishnanmohank@gmail.com</a>
+
